@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="108dp"
+    android:width="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M47.50,33.00a6.5,6.5 0,1,0 13.0,0a6.5,6.5 0,1,0 -13.0,0z" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M31.20,43.00a5.8,5.8 0,1,0 11.6,0a5.8,5.8 0,1,0 -11.6,0z" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M65.20,43.00a5.8,5.8 0,1,0 11.6,0a5.8,5.8 0,1,0 -11.6,0z" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M31.20,67.00a5.8,5.8 0,1,0 11.6,0a5.8,5.8 0,1,0 -11.6,0z" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M65.20,67.00a5.8,5.8 0,1,0 11.6,0a5.8,5.8 0,1,0 -11.6,0z" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M51.00,75.00L57.00,75.00L54.00,83.00z" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeWidth="2.4"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M36.00,56.00a18,20 0,1,0 36,0a18,20 0,1,0 -36,0z" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeWidth="2.0"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M54.00,47.50L61.36,51.75L61.36,60.25L54.00,64.50L46.64,60.25L46.64,51.75z" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeWidth="2.0"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M54.00,47.50L54.00,36.60M61.36,51.75L69.49,47.05M61.36,60.25L69.49,64.95M54.00,64.50L54.00,75.40M46.64,60.25L38.51,64.95M46.64,51.75L38.51,47.05" />
+</vector>

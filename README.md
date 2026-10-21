@@ -10,4 +10,4 @@ Based on open-source work by Mo Agamy and contributors. Licensed under GPL-3.0 (
 3. Build > Build Bundle(s) / APK(s) > Build APK(s), or from a terminal:
    `.\gradlew.bat assembleFossDebug`
 4. APK output: `app\build\outputs\apk\foss\debug\`
-5. open_collective: a11yjihad 
+5. open_collective: https://opencollective.com/dashboard/a11yjihad
